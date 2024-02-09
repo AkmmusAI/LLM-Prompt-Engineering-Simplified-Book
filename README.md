@@ -12,4 +12,13 @@
 <img src="llm-pe.png" width="650" height="650" border="10"/>
 </p>
 
+## 📌 Updates 
 
+- This book is completely free to read online and available [here](https://llmnanban.akmmusai.pro).
+
+For latest updates related to Generative AI, LLMs and Prompt Engineering, follow us
+- [Twitter](https://twitter.com/kalyan_kpl)
+- [LinkedIn](https://www.linkedin.com/in/kalyanksnlp)
+
+
+  
