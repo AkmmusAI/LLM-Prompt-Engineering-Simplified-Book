@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-<img src="llm-pe.png" width="450" height="650" border="10"/>
+<img src="llm-pe.png" width="650" height="650" border="10"/>
 </p>
 
 
