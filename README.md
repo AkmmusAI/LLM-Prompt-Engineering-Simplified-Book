@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> &#128187 LLM Prompt Engineering Simplified Book</h1>
+  <h1> &#128187 LLM Prompt Engineering Simplified</h1>
   A book by 
   <h2> Katikapalli Subramanyam Kalyan </h2>
   <p align="center">
