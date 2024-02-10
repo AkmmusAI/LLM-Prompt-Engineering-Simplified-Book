@@ -85,6 +85,7 @@ For latest updates related to Generative AI, LLMs and Prompt Engineering, follow
   
 ## 📝 Cite
 Feel free to cite this book if you find the content helpful for your work or research:
+```
 @article{Kalyan_LLM_Prompt_Engineering_Simplified_2024,
 author = {Kalyan, Katikpalli Subramanyam},
 journal = {https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book},
@@ -92,5 +93,6 @@ month = {02},
 title = {{LLM Prompt Engineering Simplified}},
 year = {2024}
 }
+```
    
 
