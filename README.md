@@ -20,5 +20,15 @@ For latest updates related to Generative AI, LLMs and Prompt Engineering, follow
 - [Twitter](https://twitter.com/kalyan_kpl)
 - [LinkedIn](https://www.linkedin.com/in/kalyanksnlp)
 
+## 🧱 Contents
+- 1️⃣ Introductory 
+   - [Generative AI Explained](http://llmnanban.akmmusai.pro/Introductory/Generative-AI-Explained/)
+   - [LLM Introduction](http://llmnanban.akmmusai.pro/Introductory/LLM-Introduction/)
+   - [LLM Pretraining and Meta-Training](http://llmnanban.akmmusai.pro/Introductory/LLM-Training/)
+   - [Closed and Open-Source LLMs](http://llmnanban.akmmusai.pro/Introductory/Closed-and-Open-Source-LLMs/)
+   - [Raw and Chat LLMs](http://llmnanban.akmmusai.pro/Introductory/Raw-and-Chat-LLMs/)
+   - [What is a Prompt?](http://llmnanban.akmmusai.pro/Introductory/What-is-a-prompt/)
+   - [Prompt Elements](http://llmnanban.akmmusai.pro/Introductory/Prompt-Elements/)
+   - [How to write effective prompts](http://llmnanban.akmmusai.pro/Introductory/How-to-Write-Effective-Prompts/)
 
-  
+
