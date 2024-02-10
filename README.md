@@ -14,7 +14,7 @@
 
 ## 📌 Updates 
 
-- This book is completely free to read online and available [here](https://llmnanban.akmmusai.pro).
+- This book is completely free to read online and available [here](https://llmnanban.akmmusai.pro/Home/).
 
 For latest updates related to Generative AI, LLMs and Prompt Engineering, follow us
 - [Twitter](https://twitter.com/kalyan_kpl)
