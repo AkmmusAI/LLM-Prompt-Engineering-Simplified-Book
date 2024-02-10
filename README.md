@@ -81,7 +81,7 @@ For latest updates related to Generative AI, LLMs and Prompt Engineering, follow
     - [Interesting Papers - Survey Papers](http://llmnanban.akmmusai.pro/Useful-Resources/Survey-Papers/)
     - [Interesting Papers - LLMs](http://llmnanban.akmmusai.pro/Useful-Resources/LLMs/)
     - [Interesting Papers - Prompting Techniques](http://llmnanban.akmmusai.pro/Useful-Resources/Prompting-Techniques-Papers/)
-    - [Important Terms]((http://llmnanban.akmmusai.pro/Useful-Resources/Important-Terms/)
+    - [Important Terms](http://llmnanban.akmmusai.pro/Useful-Resources/Important-Terms/)
   
 ## 📝 Cite
 Feel free to cite this book if you find the content helpful for your work or research:
